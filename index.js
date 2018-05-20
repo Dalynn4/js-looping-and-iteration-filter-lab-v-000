@@ -11,6 +11,6 @@ function matchName(array, string) {
   let result = []
   for (const user of array) {
       result.push(user.name)
-        } return user.filter(name => name === string)
+        } return result.filter(name => name === string)
 }
 
