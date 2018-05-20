@@ -8,7 +8,7 @@ function fuzzyMatch(array, string) {
 }
 
 function matchName(array, string) {
- let newarray = for const user of array {
+ for const user of array {
     return user.name
     } return newarray.filter(name => name === string)
 }
