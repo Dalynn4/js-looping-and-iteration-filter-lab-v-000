@@ -8,6 +8,12 @@ function fuzzyMatch(array, string) {
 }
 
 function matchName(array, string) {
-  return array.filter(name =>)
+  for const array ofreturn array.filter(name =>)
 }
 
+for (const user of collection) {
+    if (cb(user)) {
+      newCollection.push(user);
+    }
+  }
+ 
