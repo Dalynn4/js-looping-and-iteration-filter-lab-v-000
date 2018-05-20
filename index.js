@@ -10,3 +10,4 @@ function fuzzyMatch(array, string) {
 function matchName(array, string) {
   return array.filter(name =>)
 }
+
