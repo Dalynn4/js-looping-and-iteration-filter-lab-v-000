@@ -8,7 +8,7 @@ function fuzzyMatch(array, string) {
 }
 
 function matchName(array, string) {
-  for const array ofreturn array.filter(name =>)
+  for const  ofreturn array.filter(name =>)
 }
 
 for (const user of collection) {
