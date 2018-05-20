@@ -1,4 +1,5 @@
 // Code your solution in this file
 function findMatching(array, string) {
-  array.filter(name => name === string)
+ let x = array
+ x.filter(name => name === string)
 }
