@@ -10,7 +10,7 @@ function fuzzyMatch(array, string) {
 function matchName(array, string) {
   
   for (const user of array) {
-     return array.filter(name => name === string)
+     if user.name === string
         } 
 }
 
