@@ -8,11 +8,11 @@ function fuzzyMatch(array, string) {
 }
 
 function matchName(array, string) {
-  
+  let result
   for (const user of array) {
      if (user.name === string) {
-       
+       result.push(user)
      }
-  } 
+  } return result
 }
 
